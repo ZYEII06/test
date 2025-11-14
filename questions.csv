@@ -1,0 +1,7 @@
+question,optionA,optionB,optionC,correct
+p5.js中,哪個函數在程式開始時只運行一次?,setup(),draw(),preload(),A
+哪個函數會不斷重複執行,用於繪製畫面?,setup(),draw(),mouseClicked(),B
+用於載入外部檔案(如圖片或CSV)的函數是?,createCanvas(),background(),preload(),C
+設定畫布大小的函數是?,setSize(),canvas(),createCanvas(),C
+改變圖形填充顏色的函數是?,fill(),stroke(),rect(),A
+p5.js的畫布原點(0,0)在哪個位置?,左上角,右下角,中心,A
